@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+azure-storage-blob
+tensorflow
+joblib
+numpy
